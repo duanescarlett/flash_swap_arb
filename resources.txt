@@ -1,0 +1,12 @@
+ethers ^5.7.2
+hardhat 2.12.2
+
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  }
+}
+
+Tutorial
+https://youtu.be/bNK3lg7Tjj4?si=0tKYxdFvD4AkKmSe
